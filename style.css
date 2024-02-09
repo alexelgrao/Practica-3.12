@@ -1,0 +1,15 @@
+.borde1{
+    border: red 1px solid;
+}
+
+.azul{
+    border: blue 1px solid;
+}
+
+.borde2{
+    border: green 1px double;
+}
+
+.verde{
+    border: green 1px solid;
+}
